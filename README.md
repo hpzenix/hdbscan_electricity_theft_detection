@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements an unsupervised electricity theft detection framework based on the research paper methodology using the HDBSCAN clustering algorithm and DBCV-based hyperparameter tuning.
+This project implements an unsupervised electricity theft detection framework based on the research [paper](paper/A_Novel_Density_Based_Clustering_Approach_for_Electricity_Theft_Detection.pdf) methodology using the HDBSCAN clustering algorithm and DBCV-based hyperparameter tuning.
 
 The implementation is performed on Dataset-2 of the smart meter dataset for July 2018. The complete workflow includes data cleaning, theft generation, preprocessing, clustering, anomaly ranking, and performance evaluation.
 
